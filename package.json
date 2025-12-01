@@ -1,0 +1,20 @@
+{
+  "name": "RTB Discord bot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/core.js",
+    "dev": "node src/core.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "exaroton" : "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "author": "crocblancyt",
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC"
+}
