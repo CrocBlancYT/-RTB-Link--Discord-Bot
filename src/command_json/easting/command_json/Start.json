@@ -1,0 +1,25 @@
+[
+    "/title @a title {\"text\":\"5\",\"color\":\"dark_green\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 0 1",
+    1,
+
+    "/title @a title {\"text\":\"4\",\"color\":\"green\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 0 1",
+    1,
+
+    "/title @a title {\"text\":\"3\",\"color\":\"yellow\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 0 1",
+    1,
+
+    "/title @a title {\"text\":\"2\",\"color\":\"gold\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 0 1",
+    1,
+
+    "/title @a title {\"text\":\"1\",\"color\":\"red\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 0 1",
+    1,
+
+    "/title @a title {\"text\":\"Start\",\"color\":\"green\"}",
+    "/title @a subtitle {\"text\":\"Good luck have fun !\",\"color\":\"green\"}",
+    "/playsound minecraft:block.note_block.chime master @a ~ ~ ~ 1000 1 1"
+]

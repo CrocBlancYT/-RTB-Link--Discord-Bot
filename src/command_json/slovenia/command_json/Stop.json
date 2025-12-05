@@ -1,0 +1,8 @@
+[
+    0.2,
+    "/computercraft shutdown",
+    0.2,
+    "/gamemode spectator @a",
+    "/team leave @a[team=!Buh]",
+    "/clear @a"
+]

@@ -1,0 +1,13 @@
+[
+    "/gamemode survival @a[gamemode=creative,team=Red]",
+    0.2,
+    "/give @a[team=Red] trackwork:suspension_track 64",
+    "/give @a[team=Red] takkit:multicam_boots",
+    "/give @a[team=Red] trackwork:med_suspension_track 64",
+    "/give @a[team=Red] takkit:multicam_leggings",
+    "/give @a[team=Red] trackwork:large_suspension_track 64",
+    "/give @a[team=Red] takkit:multicam_chestplate",
+    "/give @a[team=Red] takkit:multicam_helmet",
+    "/give @a[team=Red] create:wrench",
+    "/give @a[team=Red] create:white_seat 16"
+]

@@ -1,0 +1,4 @@
+[
+    "/tp @a[gamemode=spectator,team=Red] @p[gamemode=creative,team=Red]",
+    "/gamemode creative @a[team=Red]"
+]
